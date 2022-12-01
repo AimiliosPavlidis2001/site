@@ -1,7 +1,7 @@
 ---
 author: AimiliosPavlidis2001
 title: "X Window System"
-image_url: /images/kde.JPG
+image_url: /images/x-windows-system.png
 caption: "Το X Window System είναι ένα σύστημα που συντελεί στη δημιουργία παραθύρων σε ένα υπολογιστικό περιβάλλον."
 categories:
   - Μελέτη Περίπτωσης
