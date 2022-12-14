@@ -10,9 +10,10 @@ tags:
   - Rob Pike
   - Ken Thompson
   - Bell Labs
-  - Google
   - UTF-8
   - Go
+  - IBM
+  - Plan9
 ---
 
 {% include bio-pike.md %}
